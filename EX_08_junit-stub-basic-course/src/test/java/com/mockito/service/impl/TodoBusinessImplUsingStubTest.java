@@ -9,7 +9,7 @@ import org.junit.Test;
 import com.mockito.service.TodoService;
 import com.mockito.service.TodoServiceStub;
 
-public class TodoBusinessImplTest {
+public class TodoBusinessImplUsingStubTest {
 
 	@Test
 	public void test() {
